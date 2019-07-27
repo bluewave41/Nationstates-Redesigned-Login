@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Nationstates Redesigned Login
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Redesigned login/switch screen for nationstates
+// @author       bluewave41
 // @match        https://www.nationstates.net/*
+// @updateURL	 https://raw.githubusercontent.com/bluewave41/Nationstates-Redesigned-Login/master/script.js
+// @downloadURL  https://raw.githubusercontent.com/bluewave41/Nationstates-Redesigned-Login/master/script.js
 // @grant        none
 // ==/UserScript==
 
