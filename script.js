@@ -19,6 +19,7 @@
 		localStorage.setItem('nations', JSON.stringify(storage));
 	}
 	function checkForPinHeader(headers) {
+		console.log(headers);
 		headers = headers.split('\n');
 		for(var x=0;x<headers.length;x++) {
 			if(headers[x].startsWith('x-pin')) {
